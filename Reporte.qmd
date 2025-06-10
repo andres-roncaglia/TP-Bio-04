@@ -1,0 +1,59 @@
+---
+format: pdf
+lang: es
+warning: False
+message: False
+echo: False
+---
+
+
+::: {.center data-latex=""}
+
+\vspace{3cm}
+
+```{r logo facultad, echo=F, include = T, out.width= "60%"}
+knitr::include_graphics("logounr.png")
+```
+
+\pagenumbering{gobble}
+
+\vspace{5cm}
+
+\Large
+**LICENCIATURA EN ESTADÍSTICA**
+
+\vspace{1cm}
+
+\Large
+**Trabajo práctico final**
+
+
+\vspace{0.3cm}
+\large
+
+*Bioestadística*
+
+\vspace{7cm}
+
+\large
+
+**Autores: Franco Santini - Andrés Roncaglia**
+
+**Docentes: Cristina Cuesta - Nora Arnesi**
+
+**2025**
+\normalsize
+\newpage
+\hypersetup{linkcolor = black}
+\tableofcontents
+
+
+\newpage
+\pagenumbering{arabic}
+
+:::
+
+
+
+
+

@@ -1,0 +1,118 @@
+the new england journal of medicine
+
+
+Alto, se reconcoce como recognized as the world's leading medical journal and website. Published continuously for over 200 years, NEJM delivers high-quality, peer-reviewe
+
+Cite factor score: 96.2 (https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html)
+
+
+he objectives of the
+trial were to evaluate overall vaccine efficacy against symptomatic, virologically con-
+firmed dengue of any serotype occurring more than 28 days after vaccination (the
+primary efficacy end point), regardless of serostatus at baseline, and to describe safety
+up to day 21. vaccine efficacy was assessed on the
+basis of 2 years of follow-up for each participant, and safety as solicited vaccine-related
+adverse events reported up to day 21 after injection. 
+
+
+phase 3, double-blind trial in Brazil, we randomly assigned participants
+to receive Butantan-DV or placebo, with stratification according to age (2 to 6 years, 7
+to 17 years, and 18 to 59 years); 5 years of follow-up is planned. 
+
+phase 3, randomized,
+double-blind, placebo-controlled trial, with 5 years
+of planned follow-up, being conducted at 16 sites
+in Brazil. 
+
+participants underwent randomization accord-
+ing to age (2 to 6 years of age, 7 to 17 years of age,
+and 18 to 59 years of age) and in a 2:1 ratio to
+receive a single dose of Butantan-DV or placebo.
+
+
+Participants were eligible if they were 2
+to 59 years of age and were healthy or had
+clinically controlled disease. Key exclusion crite-
+ria included immunocompromising conditions,
+pregnancy, and previous receipt of a dengue vac-
+cine. 
+
+
+To calculate the sample size for analysis of the
+primary end point (vaccine efficacy), we used the
+formula developed by Blackwelder26 with Poisson
+approximation 
+
+The primary efficacy analysis was
+performed in the per-protocol population, 
+Safety analyses were performed in the as-
+treated population
+
+Vaccine efficacy was determined with the
+use of the following formula: vaccine efficacy =
+[1−(1+s)θ]÷[1−θ], in which s is the ratio of follow-
+up times in the control group to that in the vac-
+cine group and θ is the proportion of all dengue
+cases that occurred in the vaccine group.
+
+Solicited systemic vaccine- or
+placebo-related adverse events within 21 days after injection were more common
+with Butantan-DV than with placebo (58.3% of participants, vs. 45.6%).
+
+
+
+
+-----------------------------
+
+
+
+MEDICINA (buenos aires)
+
+factor de impacto segun cite factor 0.6 (https://www.citefactor.org/impact-factor/impact-factor-of-medicina-buenos-aires.html)
+
+ This study aims to conduct
+a systematic review to evaluate the effectiveness and
+safety of the TAK-003 tetravalent dengue vaccine in
+this context
+
+
+A systematic review of randomized controlled trials
+comparing the effectiveness and safety of the vaccine
+with placebo in the general population was conducted.
+The search was carried out in Epistemonikos, and two
+researchers independently assessed the studies. Risk
+of bias was evaluated using the Cochrane Rob 2 tool.
+A meta-analysis of the results was performed, and the
+certainty of evidence was assessed using the GRADE
+methodology.
+
+ Healthy patients (children and
+adults) regardless of their previous exposure
+status to the dengue virus
+
+
+search was conducted in the Epistemonikos
+Database.
+ All searches covered the period from the
+database inception dates until 12/18/2023, with
+no restrictions on publication date, status, or
+language
+
+Articulos que matcheen el tipo de poblacion e intervencion
+The included population consisted primarily of
+children, adolescents, and young adults, and the
+research was conducted in countries with vary-
+ing levels of viral circulation, ranging from high to
+low. The follow-up time varied between 9 and 48
+months. 
+Se excluyeron aquellos articulos que tenian otra intervencion, otra respuesta, un diseño del studio erroneo, o resultados internos
+
+
+We concluded, with high certainty of evidence,
+that the tetravalent dengue vaccine reduces severe
+infections (RR 0.17, 95% CI 0.12 to 0.24) and infections
+by the dengue virus (RR 0.40, 95% CI 0.36 to 0.45) in a
+population ≤17 years. The vaccine may not increase
+the risk of serious adverse events, although it is im-
+portant to note the low certainty of evidence (RR 1.04,
+95% CI: 0.69-1.55).
