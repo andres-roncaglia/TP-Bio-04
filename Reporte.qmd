@@ -53,7 +53,96 @@ knitr::include_graphics("logounr.png")
 
 :::
 
+## *Live, Attenuated, Tetravalent Butantan–Dengue Vaccine in Children and Adults*
+
+Revista:
+
+*The new england journal of medicine*
+
+Factor de impacto:
+
+Alto, reconocida como una de las revistas médicas líderes en el mundo. Según [*Cite Factor* cuenta con un score de 96,2 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html).
+
+Objetivo:
+
+Evaluar la eficacia general de una vacuna (**Butantan-DV**) en personas sintomáticas y virológicamente confirmadas de cualquier serotipo de dengue, 28 días luego de la vacunación, sin importar el estado serológico al comienzo del estudio. También se desea probar la seguridad de la vacuna hasta el día 21 de haber sido vacunado. La eficacia fue juzgada en base al seguimiento durante 2 años de cada participante, y la seguridad con los problemas adversos relacionados a la vacuna reportados hasta el día 21 de haber sido vacunados.
+
+Breve descripción del diseño de estudio:
+
+Ensayo clinico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización fue estratificada por edad, y se administró en una razón 2 a 1 una sola dosis de la vacuna o el placebo.
+
+El tamaño de muestra para el análisis del primer objetivo fue obtenido usando la fórmula desarrollada por Blackwelder con una aproximación Poisson.
+
+Para la eficacia de la vacuna fue evaluada en la población por protocolo, mientras que la seguridad en la población por intención de tratar.
+
+Criterios de inclusión/exclusión:
+
+Los participantes, de entre 2 y 59 años de edad, debían ser sanos o tener una enfermedad clínica controlada, no debían tener ninguna condición inmunocompremetente, ni estar embarazados, ni haber recibido alguna vacuna contra el dengue.
+
+Metodología estadística utilizada:
+
+La fórmula para obtener la eficacia de la vacuna es la siguiente:
+
+$$\frac{1-\theta(1+s)}{1-\theta}$$
+
+Donde s es la razón entre el tiempo de seguimiento en el grupo control contra el tratado, y $\theta$ es la proporción de todos los casos de dengue ocurridos en el grupo tratado.
+
+## *Effectiveness and safety of the tetravalent TAK-003 Dengue vaccine: a systematic review*
+
+Revista:
+
+MEDICINA (buenos aires)
+
+Factor de impacto:
+
+Bajo, Según [*Cite Factor* cuenta con un score de 0,6 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-medicina-buenos-aires.html).
+
+Objetivo:
+
+Evaluar la efectividad y seguridad de la vacuna (TAK-003) tretavalente contra el dengue, sin importar la exposición previa a al virus.
+
+Se definieron límites para la mínima diferencia clínica importante para cada objetivo:
+
+- Mortalidad: Corte para beneficio $\rightarrow$ 50 cada 100000
+
+- Infección de dengue severa: Corte para beneficio $\rightarrow$ 75 cada 100000
+
+- Fiebre hemorrágica: Corte para beneficio $\rightarrow$ 100 cada 100000
+
+- Infección de dengue: Corte para beneficio $\rightarrow$ 125 cada 100000
+
+- Efectos secundarios serios: Corte negativo $\rightarrow$ 50 cada 100000
+
+- Efectos secundarios: Corte negativo $\rightarrow$ 20 cada 100000
+
+Breve descripción del diseño de estudio:
+
+Revisión sistemática de ensayos clínicos paralelos y aleatorizados. La búsqueda de artículos se realizó en la base de Epistemonikos con fecha hasta 12/18/2023 sin restricciones de fecha de publicación, estado o lenguaje. Además se incluyeron articulos presentes en otras revisiones sistemáticas relevantes y en referencias de otros estudios.
+
+Dos investigadores independientes evaluaron las características de los artículos para filtrar los relevantes y excluir aquellos articulos que usaban otra intervencion, otra variable respuesta, un diseño del studio erroneo, o resultados internos. Un tercer investigador resolvió los desacuerdos de elegibilidad entre los investigadores.
+
+Resultados:
+
+Con una confianza del 95% se concluyó que la vacuna reduce las infecciones e infecciones severas de dengue en las personas menores a 18 años. Por otro lado, la vacuna no incrementa el riesgo de efectos secundarios serios
 
 
+# Punto 2
+
+Rosario: https://www.scielosp.org/pdf/rbepid/2004.v7n3/311-327/es   https://www.rosarionoticias.gob.ar/page/noticias/id/579809/title/Dengue%3A-la-Municipalidad-informa-sobre-la-situaci%C3%B3n-epidemiol%C3%B3gica-en-la-ciudad
+
+Santa Fe: https://pubmed.ncbi.nlm.nih.gov/34016998/
+
+Argentina: https://pubmed.ncbi.nlm.nih.gov/39172584/   https://pubmed.ncbi.nlm.nih.gov/37224070/
+
+
+# Punto 3
+
+https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona/?utm_source=chatgpt.com
+
+https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno
+
+## b y c
+
+https://www.argentina.gob.ar/noticias/la-anmat-aprobo-el-uso-de-la-vacuna-del-laboratorio-takeda-contra-el-dengue
 
 
