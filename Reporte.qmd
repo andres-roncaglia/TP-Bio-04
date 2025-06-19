@@ -53,53 +53,88 @@ knitr::include_graphics("logounr.png")
 
 :::
 
+El dengue es una enfermedad febril que se transmite a través de la picadura de mosquitos (*aedes aegypti*) infectados. Existen 4 serotipos del virus (DENV) que circulan mundialmente, causando un estimado de 390 millones de infecciones anuales. En argentina el virus del dengue ha experimentado
+un aumento en los últimos años y en Rosario en específico es una problemática cíclica. A continuación se analizan artículos que ponen a prueba distintas vacunas para el combatir el virus.
+
+
 ## *Live, Attenuated, Tetravalent Butantan–Dengue Vaccine in Children and Adults*
 
-Revista:
+Es te artículo pertenece a la revista *The new england journal of medicine*, la cúal tiene un factor de impacto alto, reconocida por sí misma como una de las revistas médicas líderes en el mundo. Según [*Cite Factor* cuenta con un score de 96,2 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html).
 
-*The new england journal of medicine*
+El objetivo del artículo fue evaluar la eficacia general de una vacuna (**Butantan-DV**) en personas sintomáticas y virológicamente confirmadas de cualquier serotipo de dengue, 28 días luego de la vacunación, sin importar el estado serológico al comienzo del estudio. También se desea probar la seguridad de la vacuna hasta el día 21 de haber sido vacunado. La eficacia fue juzgada en base al seguimiento durante 2 años de cada participante, y la seguridad con los problemas adversos relacionados a la vacuna reportados hasta el día 21 de haber sido vacunados.
 
-Factor de impacto:
+El estudio consitió de un ensayo clinico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización se realizó estratificando por edad, y se administró en una razón 2 a 1 una sola dosis de la vacuna o el placebo. Un total de 16235 personas fueron aleatorizadas, 10256 fueron asginadas al grupo tratamiento y 5977 al placebo, de las cuales 10215 y 5947 formaron parte de la población por protocolo respectivamente.
 
-Alto, reconocida como una de las revistas médicas líderes en el mundo. Según [*Cite Factor* cuenta con un score de 96,2 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html).
+El tamaño de muestra para el análisis del primer objetivo fue obtenido usando la fórmula desarrollada por Blackwelder con una aproximación Poisson. 
 
-Objetivo:
-
-Evaluar la eficacia general de una vacuna (**Butantan-DV**) en personas sintomáticas y virológicamente confirmadas de cualquier serotipo de dengue, 28 días luego de la vacunación, sin importar el estado serológico al comienzo del estudio. También se desea probar la seguridad de la vacuna hasta el día 21 de haber sido vacunado. La eficacia fue juzgada en base al seguimiento durante 2 años de cada participante, y la seguridad con los problemas adversos relacionados a la vacuna reportados hasta el día 21 de haber sido vacunados.
-
-Breve descripción del diseño de estudio:
-
-Ensayo clinico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización fue estratificada por edad, y se administró en una razón 2 a 1 una sola dosis de la vacuna o el placebo.
-
-El tamaño de muestra para el análisis del primer objetivo fue obtenido usando la fórmula desarrollada por Blackwelder con una aproximación Poisson.
-
-Para la eficacia de la vacuna fue evaluada en la población por protocolo, mientras que la seguridad en la población por intención de tratar.
-
-Criterios de inclusión/exclusión:
+La eficacia de la vacuna fue evaluada en la población por protocolo, mientras que la seguridad en la población por intención de tratar.
 
 Los participantes, de entre 2 y 59 años de edad, debían ser sanos o tener una enfermedad clínica controlada, no debían tener ninguna condición inmunocompremetente, ni estar embarazados, ni haber recibido alguna vacuna contra el dengue.
 
-Metodología estadística utilizada:
+La eficacia de la vacuna se calculó mediante la aproximación condicional descrita por Chan y Bohidar, con intervalos de confianza calculados mediante el método de Blaker.
 
-La fórmula para obtener la eficacia de la vacuna es la siguiente:
+La fórmula para obtener la eficacia de la vacuna fue la siguiente:
 
 $$\frac{1-\theta(1+s)}{1-\theta}$$
 
 Donde s es la razón entre el tiempo de seguimiento en el grupo control contra el tratado, y $\theta$ es la proporción de todos los casos de dengue ocurridos en el grupo tratado.
 
+Se consideró que el criterio de valoración de la eficacia de la vacuna se había cumplido si el límite inferior del intervalo de confianza bilateral del 95 % era superior al 25 % para la enfermedad por DENV causada por cualquier serotipo (combinado) para el criterio de valoración principal o causada por cada serotipo (por separado) para los criterios de valoración secundarios.
+
+
++--------------------+-----------+-----------+-----------+
+|     Seroestatus    | Estimador | Intervalo | Intervalo |
+|                    |  puntual  |  inferior |  superior |
++====================+===========+===========+===========+
+|      Eficiencia de la vacuna (Cualquier serotipo)      |
++--------------------+-----------+-----------+-----------+
+| Independientemente |      79.6 |      70.0 |      86.3 |
+|   del serostatus   |           |           |           |
++--------------------+-----------+-----------+-----------+
+|   Con exposición   |      89.2 |      77.6 |      95.6 |
+|       previa       |           |           |           |
++--------------------+-----------+-----------+-----------+
+|   Sin exposición   |      73.6 |      57.6 |      83.7 |
+|       previa       |           |           |           |
++--------------------+-----------+-----------+-----------+
+|            Eficiencia de la vacuna (DENV-1)            |
++--------------------+-----------+-----------+-----------+
+| Independientemente |      89.5 |      78.7 |      95.0 |
+|   del serostatus   |           |           |           |
++--------------------+-----------+-----------+-----------+
+|   Con exposición   |      96.8 |      81.0 |      99.8 |
+|       previa       |           |           |           |
++--------------------+-----------+-----------+-----------+
+|   Sin exposición   |      85.6 |      69.1 |      94.0 |
+|       previa       |           |           |           |
++--------------------+-----------+-----------+-----------+
+|            Eficiencia de la vacuna (DENV-2)            |
++--------------------+-----------+-----------+-----------+
+| Independientemente |      69.6 |      50.8 |      81.5 |
+|   del serostatus   |           |           |           |
++--------------------+-----------+-----------+-----------+
+|   Con exposición   |      83.7 |      63.1 |      93.5 |
+|       previa       |           |           |           |
++--------------------+-----------+-----------+-----------+
+|   Sin exposición   |      57.9 |      20.8 |      78.1 |
+|       previa       |           |           |           |
++--------------------+-----------+-----------+-----------+
+|      DENV-3 y DENV-4 No presentaron observaciones      |
++--------------------------------------------------------+
+:Resultados de la eficacia de la vacuna (en porcentaje)
+
+Se concluyó que una dosis de Butantan-DV previno los serotipos DENV-1 y DENV-2 sintomáticos, sin importar el serostatus al momento de ser vacunados y con un seguimiento de 2 años.
+
+En cuanto a los eventos adversos, en su mayoría fueron leves o moderados, con una presencia del 58.3% en los pacientes a los cuales se les asignó la vacuna, y en un 45.6% en aquellos que recibieron placebo. Se registraron eventos adversos serios en el 3.9% de los pacientes que recibieron la vacuna, y 4.0% en el grupo placebo, habiendo 16 muertes en los 2 años de seguimientos, 9 en el grupo tratamiento y 7 en el placebo.
+
+La ausencia de circulación de DENV-3 y DENV-4 impidió estimar eficacia contra esos serotipos. Además, por el tiempo de seguimiento algunos efectos o eventos tardíos podrían no haberse manifestado aún puediendo ser estos posibles sesgos en el estudio.
+
+
 ## *Effectiveness and safety of the tetravalent TAK-003 Dengue vaccine: a systematic review*
 
-Revista:
+El artículo fue publicado en MEDICINA (buenos aires) la cual tiene un factor de impacto bajo y reportó un [score de 0,6 al período 2023-2024 según *Cite factor*](https://www.citefactor.org/impact-factor/impact-factor-of-medicina-buenos-aires.html).
 
-MEDICINA (buenos aires)
-
-Factor de impacto:
-
-Bajo, Según [*Cite Factor* cuenta con un score de 0,6 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-medicina-buenos-aires.html).
-
-Objetivo:
-
-Evaluar la efectividad y seguridad de la vacuna (TAK-003) tretavalente contra el dengue, sin importar la exposición previa a al virus.
+El objetivo fue evaluar la efectividad y seguridad de la vacuna (TAK-003) tretavalente contra el dengue, sin importar la exposición previa a al virus.
 
 Se definieron límites para la mínima diferencia clínica importante para cada objetivo:
 
@@ -115,25 +150,35 @@ Se definieron límites para la mínima diferencia clínica importante para cada 
 
 - Efectos secundarios: Corte negativo $\rightarrow$ 20 cada 100000
 
-Breve descripción del diseño de estudio:
-
-Revisión sistemática de ensayos clínicos paralelos y aleatorizados. La búsqueda de artículos se realizó en la base de Epistemonikos con fecha hasta 12/18/2023 sin restricciones de fecha de publicación, estado o lenguaje. Además se incluyeron articulos presentes en otras revisiones sistemáticas relevantes y en referencias de otros estudios.
+El estudio consistió de una revisión sistemática de ensayos clínicos paralelos y aleatorizados. La búsqueda de artículos se realizó en la base de Epistemonikos con fecha hasta 12/18/2023 sin restricciones de fecha de publicación, estado o lenguaje. Además se incluyeron articulos presentes en otras revisiones sistemáticas relevantes y en referencias de otros estudios.
 
 Dos investigadores independientes evaluaron las características de los artículos para filtrar los relevantes y excluir aquellos articulos que usaban otra intervencion, otra variable respuesta, un diseño del studio erroneo, o resultados internos. Un tercer investigador resolvió los desacuerdos de elegibilidad entre los investigadores.
 
-Resultados:
-
-Con una confianza del 95% se concluyó que la vacuna reduce las infecciones e infecciones severas de dengue en las personas menores a 18 años. Por otro lado, la vacuna no incrementa el riesgo de efectos secundarios serios
+Con una confianza del 95% se concluyó que la vacuna reduce las infecciones e infecciones severas de dengue en las personas menores a 18 años. Por otro lado, la vacuna no incrementa el riesgo de efectos secundarios serios.
 
 
-# Punto 2
 
-Rosario: https://www.scielosp.org/pdf/rbepid/2004.v7n3/311-327/es   https://www.rosarionoticias.gob.ar/page/noticias/id/579809/title/Dengue%3A-la-Municipalidad-informa-sobre-la-situaci%C3%B3n-epidemiol%C3%B3gica-en-la-ciudad
+# Situación actual del dengue a nivel País, Provincia y Ciudad
 
-Santa Fe: https://pubmed.ncbi.nlm.nih.gov/34016998/
+Según el [boletin epidemiológico nacional de la semana epidemiológica número 23](https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23)^[Dirección de epidemiología. (17/06/2025). Boletín epidemiológico nacional. https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23] reporta que en lo que va de la temporada 2024-2025 (SE31/2024 hasta la SE23/2025), se notificaron en Argentina 75.072 casos sospechosos de dengue y dengue durante el embarazo en el Sistema Nacional de Vigilancia de la Salud (SNVS 2.0) de los cuales 8258 fueron confirmados por laboratorio y 8674 por nexo clínico epidemiológico (El nexo epidemiológico consiste en confirmar los casos probables de dengue a partir de casos confirmados por laboratorio utilizando la asociación de persona, tiempo y espacio.), con un total de 16.932 casos de dengue. La incidencia acumulada a nivel país para la temporada actual es de 36 casos cada 100.000 habitantes. 
 
-Argentina: https://pubmed.ncbi.nlm.nih.gov/39172584/   https://pubmed.ncbi.nlm.nih.gov/37224070/
+![Casos de dengue por semana epidemiológica de fecha mínima. SE31/2024 a SE23/2025. Argentina](grafico_evolucion_dengue.png)
 
+
+
+Con respecto a los casos fallecidos, desde la SE 31/2024 a la SE 23/2025 se han registrado 12 óbitos vinculados al evento. Diez de los casos correspondieron a residentes de la provincia de Santa Fe, de los departamentos Rosario (8), San Lorenzo (1) y Caseros (1). Los otros dos casos correspondieron a residentes de CABA (Comuna 11) y Córdoba (San Alberto).
+
+La mediana de edad es de 65 años, con un rango de edades entre 14 meses y 79 años. Nueve de los doce casos presentaban comorbilidades o condiciones clínicas preexistentes que contribuyeron al desarrollo de complicaciones asociadas a la infección por virus dengue y, por tanto, al fallecimiento. Dos de los casos fallecidos correspondieron a personas adultas jóvenes (25 y 47 años) sin comorbilidades identificadas al momento del análisis.
+
+
+A nivel pronvincial, según el [informe epidemiológico de la provincia de la semana 22 del 2025](https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf)^[Ministerio de Salud de Santa Fe. (06/2025). Informe epidemiológico. https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf] en lo que va de la temporada 2024-2025, la provincia de Santa Fe se notificaron un total de 15320 casos al evento “dengue” y “dengue en la gestación”. Se confirmaron 9838 casos para el evento “dengue” y 66 casos en el evento de “Dengue durante la gestación”, haciendo un total de 9904 casos confirmados. Esto presenta hasta la fecha una disminución del 83.9% con respecto a la temporada anterior, sin embargo, se debe notar que no se refleja aún el cierre de la temporada.
+
+![Casos acumulados de Dengue en temporadas epidémicas. Provincia de Santa Fe.](grafico_evolucion_dengue_santa_fe.png)
+
+
+En el informe [Situación epidemiológica de problemas de salud priorizados](https://datos.rosario.gob.ar/sites/default/files/2025-06/Situaci%C3%B3n%20epidemiol%C3%B3gica%20semana%2023%202025.pdf)^[Mesa de Integración de Información para la Gestión. (17/06/2025). Situación epidemiológica de problemas de salud priorizados. https://datos.rosario.gob.ar/sites/default/files/2025-06/Situaci%C3%B3n%20epidemiol%C3%B3gica%20semana%2023%202025.pdf] se notificó que en Rosario hubieron un total de 2296 casos confirmados de Dengue y dengue durante el embarazo en la temporada SE31/2024 a SE22/2025, 4 de los cuales corresponden a la semana 23, y 8 de los casos confirmados fallecieron por la enfermedad.  
+
+![Casos de dengue según clasificación por semana epidemiológica. Rosario, SE 31/2024 a 23/2025.](grafico_evolucion_dengue_rosario.png)
 
 # Punto 3
 
