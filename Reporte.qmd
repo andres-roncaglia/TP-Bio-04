@@ -53,9 +53,12 @@ knitr::include_graphics("logounr.png")
 
 :::
 
+# Introducción
+
 El dengue es una enfermedad febril que se transmite a través de la picadura de mosquitos (*aedes aegypti*) infectados. Existen 4 serotipos del virus (DENV) que circulan mundialmente, causando un estimado de 390 millones de infecciones anuales. En argentina el virus del dengue ha experimentado
 un aumento en los últimos años y en Rosario en específico es una problemática cíclica. A continuación se analizan artículos que ponen a prueba distintas vacunas para el combatir el virus.
 
+# Revisión de artículos
 
 ## *Live, Attenuated, Tetravalent Butantan–Dengue Vaccine in Children and Adults*
 
@@ -65,7 +68,7 @@ El objetivo del artículo fue evaluar la eficacia general de una vacuna (**Butan
 
 El estudio consitió de un ensayo clinico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización se realizó estratificando por edad, y se administró en una razón 2 a 1 una sola dosis de la vacuna o el placebo. Un total de 16235 personas fueron aleatorizadas, 10256 fueron asginadas al grupo tratamiento y 5977 al placebo, de las cuales 10215 y 5947 formaron parte de la población por protocolo respectivamente.
 
-El tamaño de muestra para el análisis del primer objetivo fue obtenido usando la fórmula desarrollada por Blackwelder con una aproximación Poisson. 
+El tamaño de muestra para el análisis del primer objetivo fue obtenido usando la fórmula desarrollada por Blackwelder con una aproximación Poisson.
 
 La eficacia de la vacuna fue evaluada en la población por protocolo, mientras que la seguridad en la población por intención de tratar.
 
@@ -82,52 +85,34 @@ Donde s es la razón entre el tiempo de seguimiento en el grupo control contra e
 Se consideró que el criterio de valoración de la eficacia de la vacuna se había cumplido si el límite inferior del intervalo de confianza bilateral del 95 % era superior al 25 % para la enfermedad por DENV causada por cualquier serotipo (combinado) para el criterio de valoración principal o causada por cada serotipo (por separado) para los criterios de valoración secundarios.
 
 
-+--------------------+-----------+-----------+-----------+
-|     Seroestatus    | Estimador | Intervalo | Intervalo |
-|                    |  puntual  |  inferior |  superior |
-+====================+===========+===========+===========+
-|      Eficiencia de la vacuna (Cualquier serotipo)      |
-+--------------------+-----------+-----------+-----------+
-| Independientemente |      79.6 |      70.0 |      86.3 |
-|   del serostatus   |           |           |           |
-+--------------------+-----------+-----------+-----------+
-|   Con exposición   |      89.2 |      77.6 |      95.6 |
-|       previa       |           |           |           |
-+--------------------+-----------+-----------+-----------+
-|   Sin exposición   |      73.6 |      57.6 |      83.7 |
-|       previa       |           |           |           |
-+--------------------+-----------+-----------+-----------+
-|            Eficiencia de la vacuna (DENV-1)            |
-+--------------------+-----------+-----------+-----------+
-| Independientemente |      89.5 |      78.7 |      95.0 |
-|   del serostatus   |           |           |           |
-+--------------------+-----------+-----------+-----------+
-|   Con exposición   |      96.8 |      81.0 |      99.8 |
-|       previa       |           |           |           |
-+--------------------+-----------+-----------+-----------+
-|   Sin exposición   |      85.6 |      69.1 |      94.0 |
-|       previa       |           |           |           |
-+--------------------+-----------+-----------+-----------+
-|            Eficiencia de la vacuna (DENV-2)            |
-+--------------------+-----------+-----------+-----------+
-| Independientemente |      69.6 |      50.8 |      81.5 |
-|   del serostatus   |           |           |           |
-+--------------------+-----------+-----------+-----------+
-|   Con exposición   |      83.7 |      63.1 |      93.5 |
-|       previa       |           |           |           |
-+--------------------+-----------+-----------+-----------+
-|   Sin exposición   |      57.9 |      20.8 |      78.1 |
-|       previa       |           |           |           |
-+--------------------+-----------+-----------+-----------+
-|      DENV-3 y DENV-4 No presentaron observaciones      |
-+--------------------------------------------------------+
-:Resultados de la eficacia de la vacuna (en porcentaje)
+\begin{table}[H]
+\centering
+\caption{Resultados de la eficacia de la vacuna (en porcentaje)}
+\begin{tabular}{|crrr|}
+\hline
+\multicolumn{1}{|c|}{Seroestatus}                                                                 & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}Estimador\\ puntual\end{tabular}} & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}Intervalo\\ inferior\end{tabular}} & \multicolumn{1}{c|}{\begin{tabular}[c]{@{}c@{}}Intervalo\\ superior\end{tabular}} \\ \hline
+\multicolumn{4}{|c|}{Eficiencia de la vacuna (Cualquier serotipo)}                                                                                                                                                                                                                                                                                           \\ \hline
+\multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}Independientemente\\ del serostatus\end{tabular}} & \multicolumn{1}{r|}{79.6}                                                        & \multicolumn{1}{r|}{70.0}                                                         & 86.3                                                                              \\ \hline
+\multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}Con exposición\\ previa\end{tabular}}             & \multicolumn{1}{r|}{89.2}                                                        & \multicolumn{1}{r|}{77.6}                                                         & 95.6                                                                              \\ \hline
+\multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}Sin exposición\\ previa\end{tabular}}             & \multicolumn{1}{r|}{73.6}                                                        & \multicolumn{1}{r|}{57.6}                                                         & 83.7                                                                              \\ \hline
+\multicolumn{4}{|c|}{Eficiencia de la vacuna (DENV-1)}                                                                                                                                                                                                                                                                                                       \\ \hline
+\multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}Independientemente\\ del serostatus\end{tabular}} & \multicolumn{1}{r|}{89.5}                                                        & \multicolumn{1}{r|}{78.7}                                                         & 95.0                                                                              \\ \hline
+\multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}Con exposición\\ previa\end{tabular}}             & \multicolumn{1}{r|}{96.8}                                                        & \multicolumn{1}{r|}{81.0}                                                         & 99.8                                                                              \\ \hline
+\multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}Sin exposición\\ previa\end{tabular}}             & \multicolumn{1}{r|}{85.6}                                                        & \multicolumn{1}{r|}{69.1}                                                         & 94.0                                                                              \\ \hline
+\multicolumn{4}{|c|}{Eficiencia de la vacuna (DENV-2)}                                                                                                                                                                                                                                                                                                       \\ \hline
+\multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}Independientemente\\ del serostatus\end{tabular}} & \multicolumn{1}{r|}{69.6}                                                        & \multicolumn{1}{r|}{50.8}                                                         & 81.5                                                                              \\ \hline
+\multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}Con exposición\\ previa\end{tabular}}             & \multicolumn{1}{r|}{83.7}                                                        & \multicolumn{1}{r|}{63.1}                                                         & 93.5                                                                              \\ \hline
+\multicolumn{1}{|c|}{\begin{tabular}[c]{@{}c@{}}Sin exposición\\ previa\end{tabular}}             & \multicolumn{1}{r|}{57.9}                                                        & \multicolumn{1}{r|}{20.8}                                                         & 78.1                                                                              \\ \hline
+\multicolumn{4}{|c|}{DENV-3 y DENV-4 No presentaron observaciones}                                                                                                                                                                                                                                                                                           \\ \hline
+\end{tabular}
+\end{table}
+
 
 Se concluyó que una dosis de Butantan-DV previno los serotipos DENV-1 y DENV-2 sintomáticos, sin importar el serostatus al momento de ser vacunados y con un seguimiento de 2 años.
 
 En cuanto a los eventos adversos, en su mayoría fueron leves o moderados, con una presencia del 58.3% en los pacientes a los cuales se les asignó la vacuna, y en un 45.6% en aquellos que recibieron placebo. Se registraron eventos adversos serios en el 3.9% de los pacientes que recibieron la vacuna, y 4.0% en el grupo placebo, habiendo 16 muertes en los 2 años de seguimientos, 9 en el grupo tratamiento y 7 en el placebo.
 
-La ausencia de circulación de DENV-3 y DENV-4 impidió estimar eficacia contra esos serotipos. Además, por el tiempo de seguimiento algunos efectos o eventos tardíos podrían no haberse manifestado aún puediendo ser estos posibles sesgos en el estudio.
+La ausencia de circulación de DENV-3 y DENV-4 impidió estimar eficacia contra esos serotipos. Además, por el tiempo de seguimiento algunos efectos o eventos tardíos podrían no haberse manifestado aún puediendo ser estos posibles sesgoºs en el estudio.
 
 
 ## *Effectiveness and safety of the tetravalent TAK-003 Dengue vaccine: a systematic review*
@@ -160,7 +145,7 @@ Con una confianza del 95% se concluyó que la vacuna reduce las infecciones e in
 
 # Situación actual del dengue a nivel País, Provincia y Ciudad
 
-Según el [boletin epidemiológico nacional de la semana epidemiológica número 23](https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23)^[Dirección de epidemiología. (17/06/2025). Boletín epidemiológico nacional. https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23] reporta que en lo que va de la temporada 2024-2025 (SE31/2024 hasta la SE23/2025), se notificaron en Argentina 75.072 casos sospechosos de dengue y dengue durante el embarazo en el Sistema Nacional de Vigilancia de la Salud (SNVS 2.0) de los cuales 8258 fueron confirmados por laboratorio y 8674 por nexo clínico epidemiológico (El nexo epidemiológico consiste en confirmar los casos probables de dengue a partir de casos confirmados por laboratorio utilizando la asociación de persona, tiempo y espacio.), con un total de 16.932 casos de dengue. La incidencia acumulada a nivel país para la temporada actual es de 36 casos cada 100.000 habitantes. 
+Según el boletin epidemiológico nacional de la semana epidemiológica número 23^[Dirección de epidemiología. (17/06/2025). Boletín epidemiológico nacional. [https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23](https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23)] reporta que en lo que va de la temporada 2024-2025 (SE31/2024 hasta la SE23/2025), se notificaron en Argentina 75.072 casos sospechosos de dengue y dengue durante el embarazo en el Sistema Nacional de Vigilancia de la Salud (SNVS 2.0) de los cuales 8258 fueron confirmados por laboratorio y 8674 por nexo clínico epidemiológico (El nexo epidemiológico consiste en confirmar los casos probables de dengue a partir de casos confirmados por laboratorio utilizando la asociación de persona, tiempo y espacio.), con un total de 16.932 casos de dengue. La incidencia acumulada a nivel país para la temporada actual es de 36 casos cada 100.000 habitantes.
 
 ![Casos de dengue por semana epidemiológica de fecha mínima. SE31/2024 a SE23/2025. Argentina](grafico_evolucion_dengue.png)
 
@@ -171,23 +156,29 @@ Con respecto a los casos fallecidos, desde la SE 31/2024 a la SE 23/2025 se han 
 La mediana de edad es de 65 años, con un rango de edades entre 14 meses y 79 años. Nueve de los doce casos presentaban comorbilidades o condiciones clínicas preexistentes que contribuyeron al desarrollo de complicaciones asociadas a la infección por virus dengue y, por tanto, al fallecimiento. Dos de los casos fallecidos correspondieron a personas adultas jóvenes (25 y 47 años) sin comorbilidades identificadas al momento del análisis.
 
 
-A nivel pronvincial, según el [informe epidemiológico de la provincia de la semana 22 del 2025](https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf)^[Ministerio de Salud de Santa Fe. (06/2025). Informe epidemiológico. https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf] en lo que va de la temporada 2024-2025, la provincia de Santa Fe se notificaron un total de 15320 casos al evento “dengue” y “dengue en la gestación”. Se confirmaron 9838 casos para el evento “dengue” y 66 casos en el evento de “Dengue durante la gestación”, haciendo un total de 9904 casos confirmados. Esto presenta hasta la fecha una disminución del 83.9% con respecto a la temporada anterior, sin embargo, se debe notar que no se refleja aún el cierre de la temporada.
+A nivel pronvincial, según el informe epidemiológico de la provincia de la semana 22 del 2025^[Ministerio de Salud de Santa Fe. (06/2025). Informe epidemiológico. [https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf](https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf)] en lo que va de la temporada 2024-2025, la provincia de Santa Fe se notificaron un total de 15320 casos al evento “dengue” y “dengue en la gestación”. Se confirmaron 9838 casos para el evento “dengue” y 66 casos en el evento de “Dengue durante la gestación”, haciendo un total de 9904 casos confirmados. Esto presenta hasta la fecha una disminución del 83.9% con respecto a la temporada anterior, sin embargo, se debe notar que no se refleja aún el cierre de la temporada.
 
 ![Casos acumulados de Dengue en temporadas epidémicas. Provincia de Santa Fe.](grafico_evolucion_dengue_santa_fe.png)
 
 
-En el informe [Situación epidemiológica de problemas de salud priorizados](https://datos.rosario.gob.ar/sites/default/files/2025-06/Situaci%C3%B3n%20epidemiol%C3%B3gica%20semana%2023%202025.pdf)^[Mesa de Integración de Información para la Gestión. (17/06/2025). Situación epidemiológica de problemas de salud priorizados. https://datos.rosario.gob.ar/sites/default/files/2025-06/Situaci%C3%B3n%20epidemiol%C3%B3gica%20semana%2023%202025.pdf] se notificó que en Rosario hubieron un total de 2296 casos confirmados de Dengue y dengue durante el embarazo en la temporada SE31/2024 a SE22/2025, 4 de los cuales corresponden a la semana 23, y 8 de los casos confirmados fallecieron por la enfermedad.  
+En el informe Situación epidemiológica de problemas de salud priorizados^[Mesa de Integración de Información para la Gestión. (17/06/2025). Situación epidemiológica de problemas de salud priorizados. [https://datos.rosario.gob.ar/Situacion_epidemiologica.pdf](https://datos.rosario.gob.ar/sites/default/files/2025-06/Situaci%C3%B3n%20epidemiol%C3%B3gica%20semana%2023%202025.pdf)] se notificó que en Rosario hubieron un total de 2296 casos confirmados de Dengue y dengue durante el embarazo en la temporada SE31/2024 a SE22/2025, 4 de los cuales corresponden a la semana 23, y 8 de los casos confirmados fallecieron por la enfermedad.
 
 ![Casos de dengue según clasificación por semana epidemiológica. Rosario, SE 31/2024 a 23/2025.](grafico_evolucion_dengue_rosario.png)
 
-# Punto 3
 
-https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona/?utm_source=chatgpt.com
+# Detección y vacunación contra el dengue
 
-https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno
+El 13 de enero del 2021 fue aprobado por la Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT) Chemstrip Dengue 2.0 que es un test inmunocromatográfico en un solo paso para la detección rápida y cualitativa de anticuerpos IgM específicos del virus del Dengue (DENV) presentes en muestras de suero, plasma, sangre entera venosa o capilar de humanos. Las nuevas tiras reactivas permiten detectar la presencia de IgM para dengue en sólo 10 minutos con un 95% de sensibilidad y 90% de especificidad cuando se utiliza suero de pacientes con al menos 5 días de enfermedad.^[ANMAT. (13/01/2021). Declaración de conformidad PM: 2360-0007. [https://helena.anmat.gob.ar/uploads/pdfs/dc_25740_30715079891_8689.pdf?rnd=1d984999-5083-428c-bb4f-bfc8d4870e99](https://helena.anmat.gob.ar/uploads/pdfs/dc_25740_30715079891_8689.pdf?rnd=1d984999-5083-428c-bb4f-bfc8d4870e99)] ^[Ministerio de Salud. (17/02/2020). El ministro participó en la presentación de nuevo método de diagnóstico rápido para dengue de la UNSAM. [https://www.argentina.gob.ar/noticias/el-ministro-participo-en-la-presentacion-de-nuevo-metodo-de-diagnostico-rapido-para-dengue](https://www.argentina.gob.ar/noticias/el-ministro-participo-en-la-presentacion-de-nuevo-metodo-de-diagnostico-rapido-para-dengue)]
 
-## b y c
+El método fue desarrollado por investigadores del CONICET pertenecientes al Instituto de Investigaciones Biotecnológicas de la UNSAM y las tiras reactivas serán producidas y comercializadas por CHEMTEST, la empresa de base tecnológica incubada en el campus de la UNSAM.
 
-https://www.argentina.gob.ar/noticias/la-anmat-aprobo-el-uso-de-la-vacuna-del-laboratorio-takeda-contra-el-dengue
+Además, a fines de octubre del 2024 fue aprobado por ANMAT el kit Detect-AR Dengue, que es el primer test de antígeno nacional por método de ELISA para el diagnóstico de dengue. El mismo tiene un excelente desempeño para determinar la infección por cualquiera de los cuatro serotipos del virus, sin identificar cúal especificamente, al estudiar muestras de los primeros días luego de la aparición de un cuadro clínico compatible con la patología. Esto representa un avance para el diagnóstico temprano y un paso importante hacia la soberanía sanitaria del país, al disminuir la dependencia de insumos importados y optimizar el control de futuros brotes. ^[Gallardo A. (30/10/2024). La ANMAT aprobó el primer test de antígeno nacional para el dengue: cómo funciona. [https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona/?utm_source=chatgpt.com](https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona)] ^[ANLIS Malbrán. (11/03/2025). Se confirmó el excelente desempeño del kit Detect-Ar Dengue para la detección del antígeno NS1 en los primeros días de evolución de la infección0 [https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno](https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno)]
+
+La prueba fue desarrollada en el laboratorio de virología molecular de la fundación Instituto Leloir por un equipo dirigido por Andrea Gamarnik del CONICET. Está destinada al uso en laboratorios clínicos por personal capacitado.
+
+En cuanto a vacunación, la ANMAT aprobó en abril de 2023 la vacuna discutida en el segundo artículo, la TAK-003, y comenzó a distribuirse comercialmente en octubre de 2024. La misma está aprobada para todas las personas mayores de 4 años, hayan cursado o no previamente la enfermedad. La vacuna se basa en el virus del dengue 2, al que se añade ADN de los otros tres serotipos para proteger contra cualquiera de los cuatro tipos de dengue. Su forma de administración son dos dosis que deben ser aplicadas en un intervalo de tres meses.
+
+La evidencia respalda la respuesta inmune y la eficacia clínica de esta vacuna contra el dengue en niños, niñas y adolescentes. Los datos de seguridad disponibles sugieren que TAK-003 también puede usarse en personas adultas hasta los 60 años. Sin embargo, no hay datos sobre eficacia clínica en personas mayores de 60 años y limitados para personas con afecciones médicas crónicas, no hay datos sobre seguridad en personas mayores de 60 años y aún no se cuenta con estudios que estimen la efectividad de la vacuna. ^[Ministerio de Salud. (09/2024). Vacuna tetravalente contra el dengue. [https://www.argentina.gob.ar/sites/default/files/09-2024-lt-vacuna-tetravalente-de-dengue.pdf](https://www.argentina.gob.ar/sites/default/files/09-2024-lt-vacuna-tetravalente-de-dengue.pdf)] ^[Ministerio de Salud. (26/04/2023). La ANMAT aprobó el uso de la vacuna del laboratorio Takeda contra el dengue. [https://www.argentina.gob.ar/noticias/la-anmat-aprobo-el-uso-de-la-vacuna-del-laboratorio-takeda-contra-el-dengue](https://www.argentina.gob.ar/noticias/la-anmat-aprobo-el-uso-de-la-vacuna-del-laboratorio-takeda-contra-el-dengue)]
+
 
 
