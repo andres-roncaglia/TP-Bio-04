@@ -4,6 +4,8 @@ lang: es
 warning: False
 message: False
 echo: False
+header-includes:
+  - \usepackage{makecell}
 ---
 
 
@@ -62,11 +64,11 @@ un aumento en los últimos años y en Rosario en específico es una problemátic
 
 ## *Live, Attenuated, Tetravalent Butantan–Dengue Vaccine in Children and Adults*
 
-Es te artículo pertenece a la revista *The new england journal of medicine*, la cúal tiene un factor de impacto alto, reconocida por sí misma como una de las revistas médicas líderes en el mundo. Según [*Cite Factor* cuenta con un score de 96,2 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html).
+Este artículo pertenece a la revista *The new england journal of medicine*, la cúal tiene un factor de impacto alto, reconocida por sí misma como una de las revistas médicas líderes en el mundo. Según [*Cite Factor* cuenta con un score de 96,2 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html).
 
 El objetivo del artículo fue evaluar la eficacia general de una vacuna (**Butantan-DV**) en personas sintomáticas y virológicamente confirmadas de cualquier serotipo de dengue, 28 días luego de la vacunación, sin importar el estado serológico al comienzo del estudio. También se desea probar la seguridad de la vacuna hasta el día 21 de haber sido vacunado. La eficacia fue juzgada en base al seguimiento durante 2 años de cada participante, y la seguridad con los problemas adversos relacionados a la vacuna reportados hasta el día 21 de haber sido vacunados.
 
-El estudio consitió de un ensayo clinico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización se realizó estratificando por edad, y se administró en una razón 2 a 1 una sola dosis de la vacuna o el placebo. Un total de 16235 personas fueron aleatorizadas, 10256 fueron asginadas al grupo tratamiento y 5977 al placebo, de las cuales 10215 y 5947 formaron parte de la población por protocolo respectivamente.
+El estudio consitió de un ensayo clinico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización se realizó estratificando por edad, y se administró en una razón 2 a 1 una sola dosis de la vacuna o el placebo respectivamente. Un total de 16235 personas fueron aleatorizadas, 10256 fueron asignadas al grupo tratamiento y 5977 al placebo, de las cuales 10215 y 5947 formaron parte de la población por protocolo respectivamente.
 
 El tamaño de muestra para el análisis del primer objetivo fue obtenido usando la fórmula desarrollada por Blackwelder con una aproximación Poisson.
 
@@ -112,14 +114,14 @@ Se concluyó que una dosis de Butantan-DV previno los serotipos DENV-1 y DENV-2 
 
 En cuanto a los eventos adversos, en su mayoría fueron leves o moderados, con una presencia del 58.3% en los pacientes a los cuales se les asignó la vacuna, y en un 45.6% en aquellos que recibieron placebo. Se registraron eventos adversos serios en el 3.9% de los pacientes que recibieron la vacuna, y 4.0% en el grupo placebo, habiendo 16 muertes en los 2 años de seguimientos, 9 en el grupo tratamiento y 7 en el placebo.
 
-La ausencia de circulación de DENV-3 y DENV-4 impidió estimar eficacia contra esos serotipos. Además, por el tiempo de seguimiento algunos efectos o eventos tardíos podrían no haberse manifestado aún puediendo ser estos posibles sesgoºs en el estudio.
+La ausencia de circulación de DENV-3 y DENV-4 impidió estimar eficacia contra esos serotipos. Además, por el tiempo de seguimiento algunos efectos o eventos tardíos podrían no haberse manifestado aún pudiendo ser estos posibles sesgos en el estudio.
 
 
 ## *Effectiveness and safety of the tetravalent TAK-003 Dengue vaccine: a systematic review*
 
 El artículo fue publicado en MEDICINA (buenos aires) la cual tiene un factor de impacto bajo y reportó un [score de 0,6 al período 2023-2024 según *Cite factor*](https://www.citefactor.org/impact-factor/impact-factor-of-medicina-buenos-aires.html).
 
-El objetivo fue evaluar la efectividad y seguridad de la vacuna (TAK-003) tretavalente contra el dengue, sin importar la exposición previa a al virus.
+El objetivo fue evaluar la efectividad y seguridad de la vacuna (TAK-003) tretavalente contra el dengue, en pacientes saludables sin importar la exposición previa al virus.
 
 Se definieron límites para la mínima diferencia clínica importante para cada objetivo:
 
@@ -137,11 +139,37 @@ Se definieron límites para la mínima diferencia clínica importante para cada 
 
 El estudio consistió de una revisión sistemática de ensayos clínicos paralelos y aleatorizados. La búsqueda de artículos se realizó en la base de Epistemonikos con fecha hasta 12/18/2023 sin restricciones de fecha de publicación, estado o lenguaje. Además se incluyeron articulos presentes en otras revisiones sistemáticas relevantes y en referencias de otros estudios.
 
-Dos investigadores independientes evaluaron las características de los artículos para filtrar los relevantes y excluir aquellos articulos que usaban otra intervencion, otra variable respuesta, un diseño del studio erroneo, o resultados internos. Un tercer investigador resolvió los desacuerdos de elegibilidad entre los investigadores.
+Dos investigadores independientes evaluaron las características de los artículos para filtrar los relevantes y excluir aquellos articulos que usaban otra intervencion, otra variable respuesta, un diseño de estudio erroneo, o resultados interinos. Un tercer investigador resolvió los desacuerdos de elegibilidad entre los investigadores.
 
-Con una confianza del 95% se concluyó que la vacuna reduce las infecciones e infecciones severas de dengue en las personas menores a 18 años. Por otro lado, la vacuna no incrementa el riesgo de efectos secundarios serios.
+El metaanálisis se realizó con modelos de efectos aleatorios empleando el método de la variancia inversa. La certeza de la evidencia se evaluó mediante la metodología GRADE y fue clasificada como alta, moderada, baja o muy baja, mientras que el riesgo del sesgo se evaluó usando la herramienta Rob 2 de Cochrane considerando 5 dominios de sesgo: sesgo derivado del proceso de aleatorización, sesgo derivado de desviaciones de las intervenciones previstas, sesgo debido a la falta de datos de resultados, sesgo en la medición de resultados y sesgo en la selección del resultado informado. Se evitó el empleo del análisis de subgrupos, ya que no se identificaron posibles modificadores del efecto. 
+
+Se evaluó la heterogeneidad usando el test chi-cuadrado y la estadística I2. La heterogeneidad era considerada estadísticamente significativa si el p-value < 0,1.
+
+Para variables dicotómicas se usó el riesgo relativo con intervalo de confianza del 95%, para variables continuas se usó la diferencia de medias con intervalo de confianza del 95%
 
 
+\begin{table}[H]
+\centering
+\caption{Resultados del metaanálisis}
+\begin{tabular}{|l|c|r|c|r|l|}
+\hline
+\textbf{Objetivo} & \textbf{Grupo etáreo} & \makecell{\textbf{Riesgo}\\ \textbf{relativo}} & \makecell{\textbf{Intervalo de}\\ \textbf{confianza}} & \makecell{$I^2$} & \textbf{Incertidumbre} \\ \hline
+Mortalidad                     & 4-16 años         & 1.25 & (0.22 – 6.44) & -     & Muy baja certidumbre     \\ \hline
+Dengue severo                  & 4-16 años         & 0.17 & (0.12 – 0.24) & -     & Alta certidumbre         \\ \hline
+Fiebre hemorrágica             & 4-16 años         & 0.35 & (0.15 – 0.81) & -     & Baja certidumbre         \\ \hline
+Dengue                         & 4-16 años         & 0.4  & (0.36 – 0.45) & 0\%   & Alta certidumbre         \\ \hline
+\makecell[l]{Eventos adversos\\graves}        & 1.5-54 años       & 1.04 & (0.69 – 1.55) & 25\%  & Baja certidumbre         \\ \hline
+\makecell[l]{Eventos adversos\\generales}     & 4-17 y 39-54 años & 1.41 & (0.79 – 2.52) & 94.6\%& Baja certidumbre         \\ \hline
+\end{tabular}
+\end{table}
+
+En conclusión, con una confianza del 95% se concluyó que la vacuna reduce las infecciones e infecciones severas de dengue en las personas menores a 18 años. Por otro lado, la vacuna no incrementa el riesgo de efectos secundarios serios.
+
+Dado que la mayoría de los artículos incluían únicamente a la población jóven, es difícil obtener conclusiones sobre la población adulta. Otro problema en los artículos seleccionados es que hay poca presencia de países sudamericanos, incluyendo únicamente a Colombia y Brasil en 2 de los artículos analizados. Por lo que puede ser un error extrapolar estos resultados a la población argentina. 
+
+Otro factor a tener en cuenta son los distintos tiempos de seguimiento de cada artículo, mientras que algunos pacientes fueron seguidos durante menos de 9 meses, en otros casos fueron seguidos hasta 48 meses. Muchos efectos adversos de la vacuna son dependientes del tiempo, y los cortos períodos de seguimiento pudieron haber tenido resultados positivos por la ausencia del evento hasta la fecha.
+
+Por último, muchos de los resultados fueron obtenidos utilizando un solo artículo como referencia, por lo que se debe tener cuidado con los sesgos del mismo y analizarlo detenidamente.
 
 # Situación actual del dengue a nivel País, Provincia y Ciudad
 
@@ -156,7 +184,7 @@ Con respecto a los casos fallecidos, desde la SE 31/2024 a la SE 23/2025 se han 
 La mediana de edad es de 65 años, con un rango de edades entre 14 meses y 79 años. Nueve de los doce casos presentaban comorbilidades o condiciones clínicas preexistentes que contribuyeron al desarrollo de complicaciones asociadas a la infección por virus dengue y, por tanto, al fallecimiento. Dos de los casos fallecidos correspondieron a personas adultas jóvenes (25 y 47 años) sin comorbilidades identificadas al momento del análisis.
 
 
-A nivel pronvincial, según el informe epidemiológico de la provincia de la semana 22 del 2025^[Ministerio de Salud de Santa Fe. (06/2025). Informe epidemiológico. [https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf](https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf)] en lo que va de la temporada 2024-2025, la provincia de Santa Fe se notificaron un total de 15320 casos al evento “dengue” y “dengue en la gestación”. Se confirmaron 9838 casos para el evento “dengue” y 66 casos en el evento de “Dengue durante la gestación”, haciendo un total de 9904 casos confirmados. Esto presenta hasta la fecha una disminución del 83.9% con respecto a la temporada anterior, sin embargo, se debe notar que no se refleja aún el cierre de la temporada.
+A nivel provincial, según el informe epidemiológico de la provincia de la semana 22 del 2025^[Ministerio de Salud de Santa Fe. (06/2025). Informe epidemiológico. [https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf](https://www.santafe.gov.ar/index.php/web/content/download/281055/1454977/file/INFORME_EPIDEMIOLOGICO_SE22_2025.pdf)] en lo que va de la temporada 2024-2025, la provincia de Santa Fe se notificaron un total de 15320 casos al evento “dengue” y “dengue en la gestación”. Se confirmaron 9838 casos para el evento “dengue” y 66 casos en el evento de “Dengue durante la gestación”, haciendo un total de 9904 casos confirmados. Esto presenta hasta la fecha una disminución del 83.9% con respecto a la temporada anterior, sin embargo, se debe notar que no se refleja aún el cierre de la temporada.
 
 ![Casos acumulados de Dengue en temporadas epidémicas. Provincia de Santa Fe.](grafico_evolucion_dengue_santa_fe.png)
 
