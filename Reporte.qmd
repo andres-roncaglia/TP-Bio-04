@@ -58,23 +58,23 @@ knitr::include_graphics("logounr.png")
 # Introducción
 
 El dengue es una enfermedad febril que se transmite a través de la picadura de mosquitos (*aedes aegypti*) infectados. Existen 4 serotipos del virus (DENV) que circulan mundialmente, causando un estimado de 390 millones de infecciones anuales. En argentina el virus del dengue ha experimentado
-un aumento en los últimos años y en Rosario en específico es una problemática cíclica. A continuación se analizan artículos que ponen a prueba distintas vacunas para el combatir el virus.
+un aumento en los últimos años y en Rosario en específico es una problemática cíclica. A continuación, se analizan artículos que ponen a prueba distintas vacunas para combatir el virus.
 
 # Revisión de artículos
 
 ## *Live, Attenuated, Tetravalent Butantan–Dengue Vaccine in Children and Adults*
 
-Este artículo pertenece a la revista *The new england journal of medicine*, la cúal tiene un factor de impacto alto, reconocida por sí misma como una de las revistas médicas líderes en el mundo. Según [*Cite Factor* cuenta con un score de 96,2 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html).
+Este artículo pertenece a la revista *The new england journal of medicine*, la cual tiene un factor de impacto alto, reconocida por sí misma como una de las revistas médicas líderes en el mundo. Según [*Cite Factor* cuenta con un score de 96,2 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html).
 
 El objetivo del artículo fue evaluar la eficacia general de una vacuna (**Butantan-DV**) en personas sintomáticas y virológicamente confirmadas de cualquier serotipo de dengue, 28 días luego de la vacunación, sin importar el estado serológico al comienzo del estudio. También se desea probar la seguridad de la vacuna hasta el día 21 de haber sido vacunado. La eficacia fue juzgada en base al seguimiento durante 2 años de cada participante, y la seguridad con los problemas adversos relacionados a la vacuna reportados hasta el día 21 de haber sido vacunados.
 
-El estudio consitió de un ensayo clinico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización se realizó estratificando por edad, y se administró en una razón 2 a 1 una sola dosis de la vacuna o el placebo respectivamente. Un total de 16235 personas fueron aleatorizadas, 10256 fueron asignadas al grupo tratamiento y 5977 al placebo, de las cuales 10215 y 5947 formaron parte de la población por protocolo respectivamente.
+El estudio consistió de un ensayo clínico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización se realizó estratificando por edad, y se administró en una razón 2 a 1 una sola dosis de la vacuna o el placebo respectivamente. Un total de 16235 personas fueron aleatorizadas, 10256 fueron asignadas al grupo tratamiento y 5977 al placebo, de las cuales 10215 y 5947 formaron parte de la población por protocolo respectivamente.
 
 El tamaño de muestra para el análisis del primer objetivo fue obtenido usando la fórmula desarrollada por Blackwelder con una aproximación Poisson.
 
 La eficacia de la vacuna fue evaluada en la población por protocolo, mientras que la seguridad en la población por intención de tratar.
 
-Los participantes, de entre 2 y 59 años de edad, debían ser sanos o tener una enfermedad clínica controlada, no debían tener ninguna condición inmunocompremetente, ni estar embarazados, ni haber recibido alguna vacuna contra el dengue.
+Los participantes, de entre 2 y 59 años de edad, debían ser sanos o tener una enfermedad clínica controlada, no debían tener ninguna condición inmunocomprometente, ni estar embarazadas, ni haber recibido alguna vacuna contra el dengue.
 
 La eficacia de la vacuna se calculó mediante la aproximación condicional descrita por Chan y Bohidar, con intervalos de confianza calculados mediante el método de Blaker.
 
@@ -114,14 +114,14 @@ Se concluyó que una dosis de Butantan-DV previno los serotipos DENV-1 y DENV-2 
 
 En cuanto a los eventos adversos, en su mayoría fueron leves o moderados, con una presencia del 58.3% en los pacientes a los cuales se les asignó la vacuna, y en un 45.6% en aquellos que recibieron placebo. Se registraron eventos adversos serios en el 3.9% de los pacientes que recibieron la vacuna, y 4.0% en el grupo placebo, habiendo 16 muertes en los 2 años de seguimientos, 9 en el grupo tratamiento y 7 en el placebo.
 
-La ausencia de circulación de DENV-3 y DENV-4 impidió estimar eficacia contra esos serotipos. Además, por el tiempo de seguimiento algunos efectos o eventos tardíos podrían no haberse manifestado aún pudiendo ser estos posibles sesgos en el estudio.
+La ausencia de circulación de DENV-3 y DENV-4 impidió estimar eficacia contra esos serotipos. Además, por el tiempo de seguimiento algunos efectos o eventos tardíos podrían no haberse manifestado aun pudiendo ser estos posibles sesgos en el estudio.
 
 
 ## *Effectiveness and safety of the tetravalent TAK-003 Dengue vaccine: a systematic review*
 
 El artículo fue publicado en MEDICINA (buenos aires) la cual tiene un factor de impacto bajo y reportó un [score de 0,6 al período 2023-2024 según *Cite factor*](https://www.citefactor.org/impact-factor/impact-factor-of-medicina-buenos-aires.html).
 
-El objetivo fue evaluar la efectividad y seguridad de la vacuna (TAK-003) tretavalente contra el dengue, en pacientes saludables sin importar la exposición previa al virus.
+El objetivo fue evaluar la efectividad y seguridad de la vacuna (TAK-003) tetravalente contra el dengue, en pacientes saludables sin importar la exposición previa al virus.
 
 Se definieron límites para la mínima diferencia clínica importante para cada objetivo:
 
@@ -137,15 +137,15 @@ Se definieron límites para la mínima diferencia clínica importante para cada 
 
 - Efectos secundarios: Corte negativo $\rightarrow$ 20 cada 100000
 
-El estudio consistió de una revisión sistemática de ensayos clínicos paralelos y aleatorizados. La búsqueda de artículos se realizó en la base de Epistemonikos con fecha hasta 12/18/2023 sin restricciones de fecha de publicación, estado o lenguaje. Además se incluyeron articulos presentes en otras revisiones sistemáticas relevantes y en referencias de otros estudios.
+El estudio consistió de una revisión sistemática de ensayos clínicos paralelos y aleatorizados. La búsqueda de artículos se realizó en la base de Epistemonikos con fecha hasta 12/18/2023 sin restricciones de fecha de publicación, estado o lenguaje. Además, se incluyeron artículos presentes en otras revisiones sistemáticas relevantes y en referencias de otros estudios.
 
-Dos investigadores independientes evaluaron las características de los artículos para filtrar los relevantes y excluir aquellos articulos que usaban otra intervencion, otra variable respuesta, un diseño de estudio erroneo, o resultados interinos. Un tercer investigador resolvió los desacuerdos de elegibilidad entre los investigadores.
+Dos investigadores independientes evaluaron las características de los artículos para filtrar los relevantes y excluir aquellos artículos que usaban otra intervención, otra variable respuesta, un diseño de estudio erróneo, o resultados interinos. Un tercer investigador resolvió los desacuerdos de elegibilidad entre los investigadores.
 
 El metaanálisis se realizó con modelos de efectos aleatorios empleando el método de la variancia inversa. La certeza de la evidencia se evaluó mediante la metodología GRADE y fue clasificada como alta, moderada, baja o muy baja, mientras que el riesgo del sesgo se evaluó usando la herramienta Rob 2 de Cochrane considerando 5 dominios de sesgo: sesgo derivado del proceso de aleatorización, sesgo derivado de desviaciones de las intervenciones previstas, sesgo debido a la falta de datos de resultados, sesgo en la medición de resultados y sesgo en la selección del resultado informado. Se evitó el empleo del análisis de subgrupos, ya que no se identificaron posibles modificadores del efecto. 
 
 Se evaluó la heterogeneidad usando el test chi-cuadrado y la estadística I2. La heterogeneidad era considerada estadísticamente significativa si el p-value < 0,1.
 
-Para variables dicotómicas se usó el riesgo relativo con intervalo de confianza del 95%, para variables continuas se usó la diferencia de medias con intervalo de confianza del 95%
+Para variables dicotómicas se usó el riesgo relativo con intervalo de confianza del 95%, para variables continuas se usó la diferencia de medias con intervalo de confianza del 95%.
 
 
 \begin{table}[H]
@@ -165,7 +165,7 @@ Dengue                         & 4-16 años         & 0.4  & (0.36 – 0.45) & 0
 
 En conclusión, con una confianza del 95% se concluyó que la vacuna reduce las infecciones e infecciones severas de dengue en las personas menores a 18 años. Por otro lado, la vacuna no incrementa el riesgo de efectos secundarios serios.
 
-Dado que la mayoría de los artículos incluían únicamente a la población jóven, es difícil obtener conclusiones sobre la población adulta. Otro problema en los artículos seleccionados es que hay poca presencia de países sudamericanos, incluyendo únicamente a Colombia y Brasil en 2 de los artículos analizados. Por lo que puede ser un error extrapolar estos resultados a la población argentina. 
+Dado que la mayoría de los artículos incluían únicamente a la población joven, es difícil obtener conclusiones sobre la población adulta. Otro problema en los artículos seleccionados es que hay poca presencia de países sudamericanos, incluyendo únicamente a Colombia y Brasil en 2 de los artículos analizados. Por lo que puede ser un error extrapolar estos resultados a la población argentina. 
 
 Otro factor a tener en cuenta son los distintos tiempos de seguimiento de cada artículo, mientras que algunos pacientes fueron seguidos durante menos de 9 meses, en otros casos fueron seguidos hasta 48 meses. Muchos efectos adversos de la vacuna son dependientes del tiempo, y los cortos períodos de seguimiento pudieron haber tenido resultados positivos por la ausencia del evento hasta la fecha.
 
@@ -173,7 +173,7 @@ Por último, muchos de los resultados fueron obtenidos utilizando un solo artíc
 
 # Situación actual del dengue a nivel País, Provincia y Ciudad
 
-Según el boletin epidemiológico nacional de la semana epidemiológica número 23^[Dirección de epidemiología. (17/06/2025). Boletín epidemiológico nacional. [https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23](https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23)] reporta que en lo que va de la temporada 2024-2025 (SE31/2024 hasta la SE23/2025), se notificaron en Argentina 75.072 casos sospechosos de dengue y dengue durante el embarazo en el Sistema Nacional de Vigilancia de la Salud (SNVS 2.0) de los cuales 8258 fueron confirmados por laboratorio y 8674 por nexo clínico epidemiológico (El nexo epidemiológico consiste en confirmar los casos probables de dengue a partir de casos confirmados por laboratorio utilizando la asociación de persona, tiempo y espacio.), con un total de 16.932 casos de dengue. La incidencia acumulada a nivel país para la temporada actual es de 36 casos cada 100.000 habitantes.
+Según el Boletín Epidemiológico Nacional de la semana epidemiológica número 23^[Dirección de epidemiología. (17/06/2025). Boletín epidemiológico nacional. [https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23](https://www.argentina.gob.ar/noticias/actualizacion-del-boletin-epidemiologico-nacional-de-la-se-ndeg-23)] reporta que en lo que va de la temporada 2024-2025 (SE31/2024 hasta la SE23/2025), se notificaron en Argentina 75.072 casos sospechosos de dengue y dengue durante el embarazo en el Sistema Nacional de Vigilancia de la Salud (SNVS 2.0) de los cuales 8258 fueron confirmados por laboratorio y 8674 por nexo clínico epidemiológico (El nexo epidemiológico consiste en confirmar los casos probables de dengue a partir de casos confirmados por laboratorio utilizando la asociación de persona, tiempo y espacio.), con un total de 16.932 casos de dengue. La incidencia acumulada a nivel país para la temporada actual es de 36 casos cada 100.000 habitantes.
 
 ![Casos de dengue por semana epidemiológica de fecha mínima. SE31/2024 a SE23/2025. Argentina](grafico_evolucion_dengue.png)
 
@@ -189,7 +189,7 @@ A nivel provincial, según el informe epidemiológico de la provincia de la sema
 ![Casos acumulados de Dengue en temporadas epidémicas. Provincia de Santa Fe.](grafico_evolucion_dengue_santa_fe.png)
 
 
-En el informe Situación epidemiológica de problemas de salud priorizados^[Mesa de Integración de Información para la Gestión. (17/06/2025). Situación epidemiológica de problemas de salud priorizados. [https://datos.rosario.gob.ar/Situacion_epidemiologica.pdf](https://datos.rosario.gob.ar/sites/default/files/2025-06/Situaci%C3%B3n%20epidemiol%C3%B3gica%20semana%2023%202025.pdf)] se notificó que en Rosario hubieron un total de 2296 casos confirmados de Dengue y dengue durante el embarazo en la temporada SE31/2024 a SE22/2025, 4 de los cuales corresponden a la semana 23, y 8 de los casos confirmados fallecieron por la enfermedad.
+En el informe Situación epidemiológica de problemas de salud priorizados^[Mesa de Integración de Información para la Gestión. (17/06/2025). Situación epidemiológica de problemas de salud priorizados. [https://datos.rosario.gob.ar/Situacion_epidemiologica.pdf](https://datos.rosario.gob.ar/sites/default/files/2025-06/Situaci%C3%B3n%20epidemiol%C3%B3gica%20semana%2023%202025.pdf)] se notificó que en Rosario hubo un total de 2296 casos confirmados de Dengue y dengue durante el embarazo en la temporada SE31/2024 a SE22/2025, 4 de los cuales corresponden a la semana 23, y 8 de los casos confirmados fallecieron por la enfermedad.
 
 ![Casos de dengue según clasificación por semana epidemiológica. Rosario, SE 31/2024 a 23/2025.](grafico_evolucion_dengue_rosario.png)
 
@@ -200,7 +200,7 @@ El 13 de enero del 2021 fue aprobado por la Administración Nacional de Medicame
 
 El método fue desarrollado por investigadores del CONICET pertenecientes al Instituto de Investigaciones Biotecnológicas de la UNSAM y las tiras reactivas serán producidas y comercializadas por CHEMTEST, la empresa de base tecnológica incubada en el campus de la UNSAM.
 
-Además, a fines de octubre del 2024 fue aprobado por ANMAT el kit Detect-AR Dengue, que es el primer test de antígeno nacional por método de ELISA para el diagnóstico de dengue. El mismo tiene un excelente desempeño para determinar la infección por cualquiera de los cuatro serotipos del virus, sin identificar cúal especificamente, al estudiar muestras de los primeros días luego de la aparición de un cuadro clínico compatible con la patología. Esto representa un avance para el diagnóstico temprano y un paso importante hacia la soberanía sanitaria del país, al disminuir la dependencia de insumos importados y optimizar el control de futuros brotes. ^[Gallardo A. (30/10/2024). La ANMAT aprobó el primer test de antígeno nacional para el dengue: cómo funciona. [https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona/?utm_source=chatgpt.com](https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona)] ^[ANLIS Malbrán. (11/03/2025). Se confirmó el excelente desempeño del kit Detect-Ar Dengue para la detección del antígeno NS1 en los primeros días de evolución de la infección0 [https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno](https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno)]
+Además, a fines de octubre del 2024 fue aprobado por ANMAT el kit Detect-AR Dengue, que es el primer test de antígeno nacional por método de ELISA para el diagnóstico de dengue. El mismo tiene un excelente desempeño para determinar la infección por cualquiera de los cuatro serotipos del virus, sin identificar cual específicamente, al estudiar muestras de los primeros días luego de la aparición de un cuadro clínico compatible con la patología. Esto representa un avance para el diagnóstico temprano y un paso importante hacia la soberanía sanitaria del país, al disminuir la dependencia de insumos importados y optimizar el control de futuros brotes. ^[Gallardo A. (30/10/2024). La ANMAT aprobó el primer test de antígeno nacional para el dengue: cómo funciona. [https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona/?utm_source=chatgpt.com](https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona)] ^[ANLIS Malbrán. (11/03/2025). Se confirmó el excelente desempeño del kit Detect-Ar Dengue para la detección del antígeno NS1 en los primeros días de evolución de la infección [https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno](https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno)]
 
 La prueba fue desarrollada en el laboratorio de virología molecular de la fundación Instituto Leloir por un equipo dirigido por Andrea Gamarnik del CONICET. Está destinada al uso en laboratorios clínicos por personal capacitado.
 
