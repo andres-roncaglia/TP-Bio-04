@@ -57,18 +57,18 @@ knitr::include_graphics("logounr.png")
 
 # Introducción
 
-El dengue es una enfermedad febril que se transmite a través de la picadura de mosquitos (*aedes aegypti*) infectados. Existen 4 serotipos del virus (DENV) que circulan mundialmente, causando un estimado de 390 millones de infecciones anuales. En argentina el virus del dengue ha experimentado
+El dengue es una enfermedad febril que se transmite a través de la picadura de mosquitos (*aedes aegypti*) infectados. Existen 4 serotipos del virus (DENV) que circulan mundialmente, causando un estimado de 390 millones de infecciones anuales. En Argentina el virus del dengue ha experimentado
 un aumento en los últimos años y en Rosario en específico es una problemática cíclica. A continuación, se analizan artículos que ponen a prueba distintas vacunas para combatir el virus.
 
 # Revisión de artículos
 
 ## *Live, Attenuated, Tetravalent Butantan–Dengue Vaccine in Children and Adults*
 
-Este artículo pertenece a la revista *The new england journal of medicine*, la cual tiene un factor de impacto alto, reconocida por sí misma como una de las revistas médicas líderes en el mundo. Según [*Cite Factor* cuenta con un score de 96,2 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html).
+Este artículo pertenece a la revista *The new england journal of medicine*, la cual tiene un factor de impacto alto y es reconocida como una de las revistas médicas líderes en el mundo. Según [*Cite Factor* cuenta con un score de 96,2 al período 2023-2024](https://www.citefactor.org/impact-factor/impact-factor-of-new-england-journal-of-medicine.html).
 
-El objetivo del artículo fue evaluar la eficacia general de una vacuna (**Butantan-DV**) en personas sintomáticas y virológicamente confirmadas de cualquier serotipo de dengue, 28 días luego de la vacunación, sin importar el estado serológico al comienzo del estudio. También se desea probar la seguridad de la vacuna hasta el día 21 de haber sido vacunado. La eficacia fue juzgada en base al seguimiento durante 2 años de cada participante, y la seguridad con los problemas adversos relacionados a la vacuna reportados hasta el día 21 de haber sido vacunados.
+El objetivo del artículo fue evaluar la eficacia general de una vacuna (**Butantan-DV**) en personas sintomáticas y virológicamente confirmadas de cualquier serotipo de dengue, 28 días luego de la vacunación, sin importar el estado serológico al comienzo del estudio. También se evaluó la seguridad de la vacuna hasta el día 21 posterior a la vacunación. La eficacia fue juzgada en base al seguimiento durante 2 años de cada participante, y la seguridad con los problemas adversos relacionados a la vacuna reportados hasta el día 21 de haber sido vacunados.
 
-El estudio consistió de un ensayo clínico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización se realizó estratificando por edad, y se administró en una razón 2 a 1 una sola dosis de la vacuna o el placebo respectivamente. Un total de 16235 personas fueron aleatorizadas, 10256 fueron asignadas al grupo tratamiento y 5977 al placebo, de las cuales 10215 y 5947 formaron parte de la población por protocolo respectivamente.
+El estudio consistió en un ensayo clínico paralelo aleatorizado, fase 3, doble ciego, multicéntrico, con 5 años de seguimiento planeado, realizado en Brasil. La aleatorización se realizó estratificando por edad, y se administró una única dosis de vacuna o placebo en una proporción 2:1. Un total de 16235 personas fueron aleatorizadas, 10256 fueron asignadas al grupo tratamiento y 5977 al placebo, de las cuales 10215 y 5947 formaron parte de la población por protocolo respectivamente.
 
 El tamaño de muestra para el análisis del primer objetivo fue obtenido usando la fórmula desarrollada por Blackwelder con una aproximación Poisson.
 
@@ -119,7 +119,7 @@ La ausencia de circulación de DENV-3 y DENV-4 impidió estimar eficacia contra 
 
 ## *Effectiveness and safety of the tetravalent TAK-003 Dengue vaccine: a systematic review*
 
-El artículo fue publicado en MEDICINA (buenos aires) la cual tiene un factor de impacto bajo y reportó un [score de 0,6 al período 2023-2024 según *Cite factor*](https://www.citefactor.org/impact-factor/impact-factor-of-medicina-buenos-aires.html).
+El artículo fue publicado en MEDICINA (Buenos Aires) la cual tiene un factor de impacto bajo y reportó un [score de 0,6 al período 2023-2024 según *Cite factor*](https://www.citefactor.org/impact-factor/impact-factor-of-medicina-buenos-aires.html).
 
 El objetivo fue evaluar la efectividad y seguridad de la vacuna (TAK-003) tetravalente contra el dengue, en pacientes saludables sin importar la exposición previa al virus.
 
@@ -165,7 +165,7 @@ Dengue                         & 4-16 años         & 0.4  & (0.36 – 0.45) & 0
 
 En conclusión, con una confianza del 95% se concluyó que la vacuna reduce las infecciones e infecciones severas de dengue en las personas menores a 18 años. Por otro lado, la vacuna no incrementa el riesgo de efectos secundarios serios.
 
-Dado que la mayoría de los artículos incluían únicamente a la población joven, es difícil obtener conclusiones sobre la población adulta. Otro problema en los artículos seleccionados es que hay poca presencia de países sudamericanos, incluyendo únicamente a Colombia y Brasil en 2 de los artículos analizados. Por lo que puede ser un error extrapolar estos resultados a la población argentina. 
+Dado que la mayoría de los artículos incluían únicamente a la población joven, es difícil obtener conclusiones sobre la población adulta. Otro problema en los artículos seleccionados es que hay poca presencia de países sudamericanos, incluyendo únicamente a Colombia y Brasil en 2 de los artículos analizados. Por lo tanto, extrapolar estos resultados a la población argentina puede ser inapropiado. 
 
 Otro factor a tener en cuenta son los distintos tiempos de seguimiento de cada artículo, mientras que algunos pacientes fueron seguidos durante menos de 9 meses, en otros casos fueron seguidos hasta 48 meses. Muchos efectos adversos de la vacuna son dependientes del tiempo, y los cortos períodos de seguimiento pudieron haber tenido resultados positivos por la ausencia del evento hasta la fecha.
 
@@ -200,7 +200,7 @@ El 13 de enero del 2021 fue aprobado por la Administración Nacional de Medicame
 
 El método fue desarrollado por investigadores del CONICET pertenecientes al Instituto de Investigaciones Biotecnológicas de la UNSAM y las tiras reactivas serán producidas y comercializadas por CHEMTEST, la empresa de base tecnológica incubada en el campus de la UNSAM.
 
-Además, a fines de octubre del 2024 fue aprobado por ANMAT el kit Detect-AR Dengue, que es el primer test de antígeno nacional por método de ELISA para el diagnóstico de dengue. El mismo tiene un excelente desempeño para determinar la infección por cualquiera de los cuatro serotipos del virus, sin identificar cual específicamente, al estudiar muestras de los primeros días luego de la aparición de un cuadro clínico compatible con la patología. Esto representa un avance para el diagnóstico temprano y un paso importante hacia la soberanía sanitaria del país, al disminuir la dependencia de insumos importados y optimizar el control de futuros brotes. ^[Gallardo A. (30/10/2024). La ANMAT aprobó el primer test de antígeno nacional para el dengue: cómo funciona. [https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona/?utm_source=chatgpt.com](https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona)] ^[ANLIS Malbrán. (11/03/2025). Se confirmó el excelente desempeño del kit Detect-Ar Dengue para la detección del antígeno NS1 en los primeros días de evolución de la infección [https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno](https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno)]
+Además, a fines de octubre del 2024 fue aprobado por ANMAT el kit Detect-AR Dengue, que es el primer test de antígeno nacional por método de ELISA para el diagnóstico de dengue. El mismo tiene un excelente desempeño para determinar la infección por cualquiera de los cuatro serotipos del virus, sin identificar cuál específicamente, al estudiar muestras de los primeros días luego de la aparición de un cuadro clínico compatible con la patología. Esto representa un avance para el diagnóstico temprano y un paso importante hacia la soberanía sanitaria del país, al disminuir la dependencia de insumos importados y optimizar el control de futuros brotes. ^[Gallardo A. (30/10/2024). La ANMAT aprobó el primer test de antígeno nacional para el dengue: cómo funciona. [https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona/?utm_source=chatgpt.com](https://www.infobae.com/salud/2024/10/30/la-anmat-aprobo-el-primer-test-de-antigeno-nacional-para-el-dengue-como-funciona)] ^[ANLIS Malbrán. (11/03/2025). Se confirmó el excelente desempeño del kit Detect-Ar Dengue para la detección del antígeno NS1 en los primeros días de evolución de la infección [https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno](https://www.argentina.gob.ar/noticias/se-confirmo-el-excelente-desempeno-del-kit-detect-ar-dengue-para-la-deteccion-del-antigeno)]
 
 La prueba fue desarrollada en el laboratorio de virología molecular de la fundación Instituto Leloir por un equipo dirigido por Andrea Gamarnik del CONICET. Está destinada al uso en laboratorios clínicos por personal capacitado.
 
